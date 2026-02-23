@@ -1,4 +1,16 @@
 fastapi
 uvicorn[standard]
+python-dotenv
 prometheus-client
+
+sqlalchemy
+psycopg2-binary
+
+langchain
+langchain-openai
+langgraph
+tenacity
+chromadb
+pydantic
+email-validator
 
